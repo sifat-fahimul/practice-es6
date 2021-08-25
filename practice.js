@@ -40,6 +40,7 @@ console.log(num2(3, 3, 3))
 // make sure you return the result
 
 
+
 // 4. [home work]: javascript function declaration vs arrow function
 // js function
 function number(hello) {
@@ -83,3 +84,5 @@ console.log(third);
 // this function will take three parameters and will return the sum of all the three parameters.
 const last = (a, b, c = 7) => sum = a + b + c;
 console.log(last(3, 5))
+
+// done
